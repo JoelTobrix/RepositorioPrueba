@@ -161,7 +161,7 @@ public boolean eliminarFila(String codigoBarras) {
     }
     return respuesta > 0;
 }
-
+ int num1=2;
     public void setModel(DefaultTableModel modelo) {
         throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
     }
